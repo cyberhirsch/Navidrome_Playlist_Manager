@@ -4,8 +4,6 @@ A powerful graphical utility designed to repair, match, and sync your local M3U 
 
 Ever tried to import an old M3U playlist into Navidrome, only to find half the tracks are missing due to slightly different file paths or metadata? This tool solves that problem by intelligently matching your local tracks against your full Navidrome library, allowing you to fix broken playlists with ease.
 
-![Application Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Replace the URL above with a link to a screenshot of the application in action)*
 
 ## Key Features
 
