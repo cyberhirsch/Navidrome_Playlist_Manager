@@ -1,5 +1,4 @@
-# Navidrome Playlist Repair Tool
-
+# Navidrome Playlist Manager
 A powerful graphical utility designed to repair, match, and sync your local M3U playlists with your Navidrome music server.
 
 Ever tried to import an old M3U playlist into Navidrome, only to find half the tracks are missing due to slightly different file paths or metadata? This tool solves that problem by intelligently matching your local tracks against your full Navidrome library, allowing you to fix broken playlists with ease.
